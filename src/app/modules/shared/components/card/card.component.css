@@ -1,0 +1,16 @@
+.cardFunc {
+    cursor: pointer;
+    text-align: center;
+    transition: all 1s;
+}
+.cardText {
+    transition: all 1s;
+}
+.cardText:hover {
+    transform: scale(1.2);
+    transition: all 1s;
+}
+.cardFunc:hover {
+    /* transform: scale(1.1); */
+    transition: all 1s;
+}
